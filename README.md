@@ -1,2 +1,1 @@
-# Hello.py-files
-Activity 1
+print("Hello World")
